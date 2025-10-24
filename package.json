@@ -14,7 +14,7 @@
         "dotenv": "^11.0.0",
         "gh-pages": "^3.2.3",
         "moment": "^2.29.1",
-        "node-vibrant": "^3.1.6",
+        "node-vibrant": "^4.0.0",
         "pondjs": "^0.9.0",
         "react": "^17.0.2",
         "react-chartjs-2": "^4.0.0",
